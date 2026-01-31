@@ -1,0 +1,9 @@
+{
+  "name": "RozgaarSetu UI",
+  "description": "A high-fidelity recreation of the RozgaarSetu job platform mobile interface with Hindi support and Aadhaar integration mockup.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
